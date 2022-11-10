@@ -225,7 +225,7 @@ Figure -09 graph between temperature values and ADC output
 ![graph 1](https://user-images.githubusercontent.com/93427581/201051380-c7b44369-ca45-42d9-b732-fd550fa04a64.png)
 
 ## Output screen shots :
-```
+
 ## Display Off:
 ![input1](https://user-images.githubusercontent.com/93427581/201051762-bd373823-ccd9-43e5-80e7-3e4092054b0c.png)
 ## Display On:
